@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.13.4](https://github.com/Canner/WrenAI/compare/wren-v0.13.3...wren-v0.13.4) (2026-08-19)
+
+
+### Bug Fixes
+
+* **memory:** validate imported query pair field types ([#2656](https://github.com/Canner/WrenAI/issues/2656)) ([2e87902](https://github.com/Canner/WrenAI/commit/2e87902ed6911c67bf9520478b594d56957923a5))
+
 ## [0.13.3](https://github.com/Canner/WrenAI/compare/wren-v0.13.2...wren-v0.13.3) (2026-08-18)
 
 
